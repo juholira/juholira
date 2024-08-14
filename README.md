@@ -1,16 +1,16 @@
-## Hi there 👋
+## bora bil
 
-<!--
-**juholira/juholira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é julia
 
-Here are some ideas to get you started:
+- estou estudando no alura
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organizaçâo e compartilhamento dps meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 📫
+
+ferreira.oliveira.julia@escola.pr.gov.br
+
+
+
+
+![](https://media.tenor.com/wPTPbPd5ZmcAAAAM/gojo-satoru-gojo.gif)    ![](https://media.tenor.com/mfdT9MRrFEMAAAAj/gojo-twerk-gojo-satoru.gif)
